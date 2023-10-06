@@ -1,0 +1,9 @@
+{
+	"name": "cs4-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9749103c-0895-4ce9-bbb5-79c8e0913426",
+		"tenantId": "dce87315-8ffa-4a01-ab40-0de5a7214b2f"
+	}
+}
